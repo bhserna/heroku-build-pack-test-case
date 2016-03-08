@@ -1,0 +1,2 @@
+defmodule FoodShop do
+end

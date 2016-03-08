@@ -1,0 +1,3 @@
+cd apps/food_shop_web
+brunch build --production
+mix phoenix.digest

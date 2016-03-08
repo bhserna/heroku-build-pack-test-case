@@ -1,0 +1,11 @@
+<div id="index">
+  <div class="hero">
+    <div class="hero-inner">
+      <a href="" class="hero-logo"><img src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpl1/t31.0-8/12244712_1122903224401444_4808584607165806524_o.jpg" alt="Logo Image"></a>
+      <div class="hero-copy">
+        <h1>Hola</h1>
+        <p>mundo</p>
+      </div>
+    </div>
+  </div>
+</div>
